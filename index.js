@@ -26,5 +26,3 @@ function myFunc(){
     }
 }
 
-
-// document.getElementById('btn').onclick = myFunc();
